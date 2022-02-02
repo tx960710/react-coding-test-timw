@@ -1,5 +1,8 @@
 # Option 2 Shopping Cart 
 
+### Setting up
+  This is an react app built using `create-react-app`. After cloning, please `cd` into the folder, run `npm install`, then `npm start` should start the app at your localhost.
+
 ### Assumptions made: 
   1. This problem is done under the assumption that a comma-separated string of "orange" and "apple" will be 
   inputted by the user (or the scanner at checkout). Basic cleaning of data has been performed to ensure no errors 
